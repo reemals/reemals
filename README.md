@@ -6,10 +6,10 @@ I am a software developer and a problem solver. I am passionate about making imp
 - Hons BSc Computer Science from York Univesity, [Lassonde School of Engineering](https://lassonde.yorku.ca/)
 
 **💼  Experience**:
-- Citi: Software Developr II
-- Citi: Software Developr I
-- York University: Programming Assistant 
-- IDEA-Lab: Research Assistant
+- Citi: Software Developer II                        July 2022 - Present
+- Citi: Software Developer I                       July 2021 - July 2022
+- York University: Programming Assistant        September 2020 - May 2021
+- IDEA-Lab: Research Assistant                    June 2018 - August 2019
 
 **🔎  Areas of Interests**:
 - Full-Stack Development 
