@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm [Reem Alsaeed](https://www.linkedin.com/in/reem-alsaeed/) 
 
-I am a software developer and a problem solver. I am passionate about making impactful technology that is sustainable, scalable, and positively impacts people's lives. Always looking for ways to expand my knowledge, learn new things, and grow.
+I am a software developer and a problem solver. I am passionate about making technology that is sustainable, scalable, and positively impacts people's lives. Always looking for ways to expand my knowledge, learn new things, and grow.
 
 **🎓   Education**:
 - Hons BSc Computer Science from York Univesity, [Lassonde School of Engineering](https://lassonde.yorku.ca/)
