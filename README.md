@@ -1,24 +1,24 @@
-### Hi there 👋 I'm [Reem Alsaeed](https://www.linkedin.com/in/reem-alsaeed/) 
+### Hi there 👋  I'm [Reem Alsaeed](https://www.linkedin.com/in/reem-alsaeed/) 
 
 I am a software developer and a problem solver. I am passionate about making impactful technology that is sustainable, scalable, and positively impacts people's lives. Always looking for ways to expand my knowledge, learn new things, and grow.
 
-**🎓  Education**:
+**🎓   Education**:
 - Hons BSc Computer Science from York Univesity, [Lassonde School of Engineering](https://lassonde.yorku.ca/)
 
-**💼  Experience**:
+**💼   Experience**:
 - Citi: Software Developer II                        July 2022 - Present
 - Citi: Software Developer I                       July 2021 - July 2022
 - York University: Programming Assistant        September 2020 - May 2021
 - IDEA-Lab: Research Assistant                    June 2018 - August 2019
 
-**🔎  Areas of Interests**:
+**🔎   Areas of Interests**:
 - Full-Stack Development 
 - Agile Development
 - DataStructures and Algorithms 
 - Cyber Security 
 
 
-**Favorites **:
+**Favorites**:
 - 📚: Ready Player One
 - 🍔: Chicken Nuggets
 - 🎥: The Greatest Showman
@@ -35,7 +35,7 @@ I am a software developer and a problem solver. I am passionate about making imp
 ![Json](https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
-#### Tools
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
