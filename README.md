@@ -43,6 +43,8 @@ I am a software developer and a problem solver. I am passionate about making imp
 ## Contacts:
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/reem-alsaeed/)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reemals&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Reem's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemals&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
 <!--
 **reemals/reemals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
