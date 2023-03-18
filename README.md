@@ -30,8 +30,19 @@ I am a software developer and a problem solver. I am passionate about making imp
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-00ff7f?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-a6120d?style=for-the-badge&logo=Angular&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![Json](https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
+#### Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+
+## Contacts:
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/reem-alsaeed/)
+
 
 <!--
 **reemals/reemals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
