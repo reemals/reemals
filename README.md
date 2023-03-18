@@ -18,7 +18,7 @@ I am a software developer and a problem solver. I am passionate about making imp
 - Cyber Security 
 
 
-**Favorites**:
+**😻   Favorites**:
 - 📚: Ready Player One
 - 🍔: Chicken Nuggets
 - 🎥: The Greatest Showman
